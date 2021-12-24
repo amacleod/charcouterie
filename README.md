@@ -8,3 +8,7 @@ Minecraft Mods Learning Project
    * @amacleod likes JetBrains IntelliJ IDEA. https://www.jetbrains.com/idea/download/#section=windows (the ultimate edition costs money, but community edition is available for free)
    * Another alternative is Eclipse. https://www.eclipse.org/downloads/packages/installer
 3. more stuff? (TO BE DETERMINED)
+
+## References
+
+Introduction to mod creation on the Minecraft Wiki: https://minecraft.fandom.com/wiki/Tutorials/Creating_Forge_mods
